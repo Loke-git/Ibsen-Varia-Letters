@@ -4,3 +4,8 @@ This script was created as part of a few days' long workshop collaborating with 
 
 ## Note
 The script does NOT automatically create new XML files that replace older ones. This was done manually.
+
+## 1.0.1
+Fixed a critical bug that prevented the script from executing properly.
+
+Created a clean .py script file with automatic installation of dependencies (which *should* work).
